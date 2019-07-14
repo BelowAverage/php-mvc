@@ -1,0 +1,13 @@
+{
+    "name": "belowaverage/php-mvc",
+    "description": "PHP MVC examples",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BelowAverage\\": ["src/BelowAverage"]
+        }
+    }
+}
