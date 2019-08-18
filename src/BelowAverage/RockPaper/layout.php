@@ -10,6 +10,6 @@
 <a href="/?selection=paper">Paper</a> |
 <a href="/?selection=scissors">Scissors</a> |
 <a href="/?selection=lizard">Lizard</a> |
-<a href="/?selection=Spock">Spock</a>
+<a href="/?selection=spock">Spock</a>
 </body>
 </html>
